@@ -29,7 +29,7 @@ baseurl: /Portfolio
 url: https://dpwebster.github.io
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
