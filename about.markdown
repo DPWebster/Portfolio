@@ -6,7 +6,7 @@ permalink: /about/
 {:refdef: style="display:block; max-width: 350px; height:auto"}
 ![pfp](/assets/images/pfp.webp)
 {: refdef}
-<div> align="center">
+<div align="center">
 <img src="/assets/images/pfp.webp" max-width="350px" height="auto"> 
 </div>
 
