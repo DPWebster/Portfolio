@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-{:refdef: style="display:block; max-width: 350px; height:auto"}
-![pfp](/assets/images/pfp.webp)
-{: refdef}
 <div align="center">
 <img src="/Portfolio/assets/images/pfp.webp" width="350px" height="350"> 
 </div>
