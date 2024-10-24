@@ -21,7 +21,7 @@
 title: Daniel Webster
 email: danielpatrickwebster@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Programmatic and academic portfolio for biology graduate and analytics master's student Daniel Webster.
+  Programmatic and academic portfolio | Biology graduate, prospective Master's in Analytics
 baseurl: /Portfolio # the subpath of your site, e.g. /blog
 url: https://dpwebster.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  DPWebster
