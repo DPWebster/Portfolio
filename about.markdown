@@ -15,7 +15,9 @@ performance in collaborative and independent settings.
 ### Education
 
 **Georgia Institute of Technology**
+
 *Master of Science in Analytics*; 3.85 GPA, Expected Graduation December 2025
 
-**University of Washington
+**University of Washington**
+
 *Bachelor of Science in Biology*; 3.52 GPA, Graduated June 2020
