@@ -7,7 +7,7 @@ permalink: /about/
 ![pfp](/assets/images/pfp.webp)
 {: refdef}
 <div align="center">
-<img src="/Portfolio/assets/images/pfp.webp" max-width="350px" height="auto"> 
+<img src="/Portfolio/assets/images/pfp.webp" width="350px" height="350"> 
 </div>
 
 Graduate student in analytics seeking to leverage skills in data science and biology research for life sciences internships
