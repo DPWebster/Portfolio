@@ -3,6 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-{:refdef: style="text-align: center; max-width: 500px; height:auto"}
+{:.center refdef: style="max-width: 350px; height:auto"}
 ![pfp](/assets/images/pfp.webp)
 {: refdef}
