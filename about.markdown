@@ -6,6 +6,9 @@ permalink: /about/
 {:refdef: style="display:block; max-width: 350px; height:auto"}
 ![pfp](/assets/images/pfp.webp)
 {: refdef}
+<div> align="center">
+<img src="/assets/images/pfp.webp" max-width="350px" height="auto"> 
+</div>
 
 Graduate student in analytics seeking to leverage skills in data science and biology research for life sciences internships
 and careers. Experience working with EHR/bioinformatics data and human subjects research. Background in scientific
@@ -21,3 +24,4 @@ performance in collaborative and independent settings.
 **University of Washington**
 
 *Bachelor of Science in Biology*; 3.52 GPA, Graduated June 2020
+Minor in Chemistry
