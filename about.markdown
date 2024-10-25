@@ -5,7 +5,10 @@ permalink: /about/
 ---
 <div align="center">
 <img src="/Portfolio/assets/images/pfp.webp" width="350px" height="350"> 
+<text>Daniel Webster | He/him | danielpatrickwebster@gmail.com</text>
 </div>
+
+---
 
 Graduate student in analytics seeking to leverage skills in data science and biology research for life sciences internships
 and careers. Experience working with EHR/bioinformatics data and human subjects research. Background in scientific
