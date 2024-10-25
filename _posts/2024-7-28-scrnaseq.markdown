@@ -19,7 +19,7 @@ Data was sourced from the recount3 public RNA-seq data repository.
 
 <div align="center">
 <img src="/Portfolio/assets/images/isomap.png" width="500" height="auto"> 
-<text>\nISOMAP representation of data after variance stabilizing transformation.</text>
+<span>\nISOMAP representation of data after variance stabilizing transformation.</span>
 </div>
 
 Duties I performed as a part of implementing this analysis include:
@@ -36,14 +36,14 @@ Duties I performed as a part of implementing this analysis include:
 
 <div align="center">
 <img src="/Portfolio/assets/images/disp_estimates.png" width="500" height="auto"> 
-<text>\nVisualization of initial dispersion estimates, the fitted trend, and the final dispersion estimate.</text>
+<span>\nVisualization of initial dispersion estimates, the fitted trend, and the final dispersion estimate.</span>
 </div>
 
 Most importantly, this project was a fantastic learning experience! Were I to do this 
 
 <div align="center">
 <img src="/Portfolio/assets/images/dif_genes.png" width="750" height="auto"> 
-<text>\nDifferentially expressed genes clustered based on correlation compared with control group.</text>
+<span>\nDifferentially expressed genes clustered based on correlation compared with control group.</span>
 </div>
 
 The report and source code cannot be shown publicly in order to comply with academic integrity policies. If you would like to see them, send me an email at danielpatrickwebster@gmail.com.
