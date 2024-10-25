@@ -36,14 +36,14 @@ Duties I performed as a part of implementing this analysis include:
 
 <div align="center">
 <img src="/Portfolio/assets/images/disp_estimates.png" width="500" height="auto"> 
-<span align="center" style="white-space: pre-line"><pre>Visualization of initial dispersion estimates, the fitted trend, and the final dispersion estimate.</pre></span>
+<span align="center" style="white-space: pre-line"><pre>Visual of initial dispersion estimates, fitted trend, and final dispersion estimate.</pre></span>
 </div>
 
 Most importantly, this project was a fantastic learning experience! Were I to do this 
 
 <div align="center">
 <img src="/Portfolio/assets/images/dif_genes.png" width="750" height="auto"> 
-<span align="center" style="white-space: pre-line"><pre>Differentially expressed genes clustered based on correlation compared with control group.</pre></span>
+<span align="center" style="white-space: pre-line"><pre>DE genes clustered based on correlation compared with control group.</pre></span>
 </div>
 
 The report and source code cannot be shown publicly in order to comply with academic integrity policies. If you would like to see them, send me an email at danielpatrickwebster@gmail.com.
