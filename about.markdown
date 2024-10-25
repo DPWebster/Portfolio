@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div align="center">
 <img src="/Portfolio/assets/images/pfp.webp" width="350px" height="350"> 
-<text>Daniel Webster | He/him | danielpatrickwebster@gmail.com</text>
+<text>\nDaniel Webster | He/him | danielpatrickwebster@gmail.com</text>
 </div>
 
 ---

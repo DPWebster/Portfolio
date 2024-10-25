@@ -18,8 +18,8 @@ This is a project I performed as a part of my Computational Data Analysis class,
 Data was sourced from the recount3 public RNA-seq data repository.
 
 <div align="center">
-<img src="/Portfolio/assets/images/isomap.png" width="350" height="auto"> 
-<text>ISOMAP representation of data after variance stabilizing transformation.</text>
+<img src="/Portfolio/assets/images/isomap.png" width="500" height="auto"> 
+<text>\nISOMAP representation of data after variance stabilizing transformation.</text>
 </div>
 
 Duties I performed as a part of implementing this analysis include:
@@ -35,15 +35,15 @@ Duties I performed as a part of implementing this analysis include:
 - Effecively communicated complex biology domain knowledge to colleagues with data science backgrounds.
 
 <div align="center">
-<img src="/Portfolio/assets/images/disp_estimates.png" width="350" height="auto"> 
-<text>Visualization of initial dispersion estimates, the fitted trend, and the final dispersion estimate.</text>
+<img src="/Portfolio/assets/images/disp_estimates.png" width="500" height="auto"> 
+<text>\nVisualization of initial dispersion estimates, the fitted trend, and the final dispersion estimate.</text>
 </div>
 
-Most importantly, this project was a fantastic learning experience!
+Most importantly, this project was a fantastic learning experience! Were I to do this 
 
 <div align="center">
-<img src="/Portfolio/assets/images/dif_genes.png" width="500" height="auto"> 
-<text>Differentially expressed genes clustered based on correlation compared with control group.</text>
+<img src="/Portfolio/assets/images/dif_genes.png" width="750" height="auto"> 
+<text>\nDifferentially expressed genes clustered based on correlation compared with control group.</text>
 </div>
 
 The report and source code cannot be shown publicly in order to comply with academic integrity policies. If you would like to see them, send me an email at danielpatrickwebster@gmail.com.
