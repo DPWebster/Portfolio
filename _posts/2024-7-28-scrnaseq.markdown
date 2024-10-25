@@ -39,7 +39,7 @@ Duties I performed as a part of implementing this analysis include:
 <span align="center" style="white-space: pre-line"><pre>Visual of initial dispersion estimates, fitted trend, and final dispersion estimates.</pre></span>
 </div>
 
-Most importantly, this project was a fantastic learning experience! Were I to do this 
+Most importantly, this project was a fantastic learning experience! I'm eager to work on and improve on my bioinformatics skills for future projects.
 
 <div align="center">
 <img src="/Portfolio/assets/images/dif_genes.png" width="750" height="auto"> 
